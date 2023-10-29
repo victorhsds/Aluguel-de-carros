@@ -26,3 +26,14 @@ export const calculateCarRent = (city_mpg: number, year: number) => {
   
     return rentalRatePerDay.toFixed(0);
   };
+import React from 'react';
+
+interface CustomFilterProps {
+  title: string;
+}
+
+function CustomFilter(props: CustomFilterProps) {
+  
+}
+
+export default CustomFilter;
