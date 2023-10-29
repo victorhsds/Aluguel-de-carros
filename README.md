@@ -1,4 +1,4 @@
-# Pagina de aluguel de carros utilizando Next.js e Typescript
+# Página de aluguel de carros utilizando Next.js e Typescript
 
 ## Tecnologias:
 
